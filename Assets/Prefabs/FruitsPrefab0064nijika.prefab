@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6531883709659830495
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2550339357490875438, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 884780249d76e5447b15f395431c28ab, type: 3}
+    - target: {fileID: 2703673006298612632, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: fruitType
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2703673006298612632, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: nextFruitPrefab
+      value: 
+      objectReference: {fileID: 1647533169208237330, guid: 865225761fbd63340adff5488f179a75, type: 3}
+    - target: {fileID: 5510399405481248205, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_Name
+      value: FruitsPrefab0064nijika
+      objectReference: {fileID: 0}
+    - target: {fileID: 5974684037293054749, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_Radius
+      value: 1.1437474
+      objectReference: {fileID: 0}
+    - target: {fileID: 5974684037293054749, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 0f875e6ca08c97b43920208511aa552b, type: 2}
+    - target: {fileID: 5974684037293054749, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.0033892393
+      objectReference: {fileID: 0}
+    - target: {fileID: 5974684037293054749, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.023566604
+      objectReference: {fileID: 0}
+    - target: {fileID: 7422720669582785088, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7422720669582785088, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7422720669582785088, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7422720669582785088, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7422720669582785088, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7422720669582785088, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7422720669582785088, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7422720669582785088, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7422720669582785088, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7422720669582785088, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 605fd7c57d9b6fb49becef022d5338c9, type: 3}
